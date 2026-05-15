@@ -1,0 +1,19 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    height: 100vh;
+    display: flex;
+    align-items: right;
+    justify-content: center;
+    overflow: hidden;
+    background: #f1f5f9;
+}
+
+.card{
+    border: none;
+    border-radius: 10px;
+    align-items: center;
+}
+
+.navbar{
+    box-shadow: 0px 2px 10px rgba(0,0,0,0.2);
+}
