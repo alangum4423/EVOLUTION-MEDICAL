@@ -1,9 +1,9 @@
 body{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, sans-serif;
     height: 100vh;
-    display: flex;
-    align-items: right;
-    justify-content: center;
+    display: flex-end;
+    align-items: flex-end;
+    justify-content: flex-end;
     overflow: hidden;
     background: #f1f5f9;
 }
@@ -11,7 +11,7 @@ body{
 .card{
     border: none;
     border-radius: 10px;
-    align-items: center;
+    align-items: flex-end;
 }
 
 .navbar{

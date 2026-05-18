@@ -15,11 +15,11 @@
     <link rel="stylesheet" href="../assets/css/estilos.css">
 </head>
 
-<body class="black">
+<body class="withe">
 
     <div class="container">
 
-        <div class="row justify-content-center align-items-center vh-100">
+        <div class="row justify-content-flex-end align-items-flex-end vh-100">
 
             <div class="col-md-4">
 
