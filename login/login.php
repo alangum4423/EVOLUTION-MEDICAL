@@ -14,15 +14,15 @@
         <div class="col-md-4">
             <div class="card shadow">
                 <div class="card-body p-4">
-                    <h2 class="text-center mb-4">EMedical</h2>
+                    <h2 class="text-center mb-4">EvolutionMedic S.R.L.</h2>
 
                     <form action="validar_login.php" method="POST">
                         <div class="mb-3">
-                            <label class="form-label">Usuario</label>
+                            <label class="form-label">Ingrese su Usuario</label>
                             <input type="text" name="usuario" class="form-control" required>
                         </div>
                         <div class="mb-3">
-                            <label class="form-label">Contraseña</label>
+                            <label class="form-label">Ingrese su Contraseña</label>
                             <input type="password" name="password" class="form-control" required>
                         </div>
                         <div class="d-grid">

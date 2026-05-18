@@ -25,6 +25,33 @@ body{
     color: #080808;
 }
 
+.form-control {
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #6b7280;
+    border-radius: 0;
+    padding: 8px 0 10px 0;
+    font-size: 1rem;
+    transition: all 0.3s ease;
+    box-shadow: none;
+}
+
+.form-control:focus {
+    border-bottom: 2px solid transparent;
+    box-shadow: none;
+    outline: none;
+    background: transparent;
+}
+
+.form-control:focus {
+    background: rgba(255, 255, 255, 0.05);
+}
+
+.form-control::placeholder {
+    color: transparent;
+    opacity: 1;
+}
+
 .btn-primary {
     background-color: #0067c0;
 }
